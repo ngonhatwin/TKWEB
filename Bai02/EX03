@@ -1,1 +1,14 @@
 
+header {
+  background: #333;
+  color: #fff;
+  padding-top: 10px;
+  min-height: 70px;
+  border-bottom: #dc143c 3px solid;
+  
+}
+
+header a {
+  color: #fff;
+  text-decoration: none;
+}
